@@ -1,2 +1,3 @@
 username,timestamp_utc,team,run_id,type,model,macro_f1,accuracy,precision,recall
 RosePY,2026-03-06 19:42:28 UTC,teamz,run_001,human,GAT,0.554623,0.555556,0.573529,0.5
+neyanch,2026-03-06 22:19:13 UTC,teamz,run_001,human,GAT,0.581538,0.581699,0.597222,0.551282
